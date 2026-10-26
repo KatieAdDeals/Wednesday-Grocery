@@ -1,0 +1,41 @@
+name: Weekly Kroger Sales Scan
+
+on:
+  schedule:
+    # Runs every Wednesday at 10:00 UTC (6:00 AM EDT)
+    - cron: '0 10 * * 3'
+  workflow_dispatch: # Allows manual run anytime with a button click
+
+jobs:
+  check-sales:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Run Kroger Deal Scanner
+        env:
+          KROGER_CLIENT_ID: ${{ secrets.KROGER_CLIENT_ID }}
+          KROGER_CLIENT_SECRET: ${{ secrets.KROGER_CLIENT_SECRET }}
+        run: |
+          python kroger_check.py
+
+      - name: Commit and Push Updated Report
+        run: |
+          git config --global user.name "GroceryBot"
+          git config --global user.email "bot@github.com"
+          git add kroger_weekly_report.md
+          git commit -m "Auto-update weekly Kroger report" || exit 0
+          git push
