@@ -1,27 +1,31 @@
-# Kroger Weekly Deal & Price Report - 2026-10-28
+# Kroger Weekly Deal & Price Report - 2026-11-04
 **Target Store Location ID:** 01100638 (Jefferson / Athens area)
 
 ## 🛒 Items Currently on Sale This Week
 - **Hormel® Pepperoni Turkey Pepperoni** (Hormel - net wt 5 oz (142g)): 🔥 **SALE: $4.99** (Reg: $5.49 | Save $0.50) - Aisle 101 L
-- **Sargento® Whole Milk Mozzarella Shredded Natural Cheese, Traditional Cut** (Sargento - 8 oz): 🔥 **SALE: $2.50** (Reg: $3.50 | Save $1.00) - Aisle 33 L
+- **Sargento® Whole Milk Mozzarella Shredded Natural Cheese, Traditional Cut** (Sargento - 8 oz): 🔥 **SALE: $3.33** (Reg: $3.50 | Save $0.17) - Aisle 33 L
 - **Eagle Brand® Sweetened Condensed Milk** (Eagle Brand - 14 oz): 🔥 **SALE: $2.99** (Reg: $3.49 | Save $0.50) - Aisle 9 L
 - **Nestlé La Lechera Sweetened Condensed Milk Canned** (Nestle - 14 oz): 🔥 **SALE: $2.69** (Reg: $3.29 | Save $0.60) - Aisle 9 L
+- **Kroger® 100% Pure Vegetable Oil** (Kroger - 1 gal): 🔥 **SALE: $10.00** (Reg: $10.49 | Save $0.49) - Aisle 15 R
+- **White Lily Self Rising Flour, 5 lb Bag** (White Lily - 5 lb): 🔥 **SALE: $3.49** (Reg: $5.49 | Save $2.00) - Aisle 15 L
+- **Bimbo White Hot Dog Buns** (Bimbo - 8 ct / 14 oz): 🔥 **SALE: $2.19** (Reg: $3.49 | Save $1.30) - Aisle 10 L
 - **Lewis Bake Shop White Keto Buns** (Lewis Bake Shop - 7.5 oz): 🔥 **SALE: $2.99** (Reg: $3.69 | Save $0.70) - Aisle 10 L
 - **Kroger® 100% Apple Juice** (Kroger - 64 fl oz): 🔥 **SALE: $1.49** (Reg: $2.99 | Save $1.50) - Aisle 21 R
-- **Seattle’s Best Coffee Decaf Portside Medium Roast Ground Coffee** (Seattle's Best - 12 oz): 🔥 **SALE: $6.99** (Reg: $9.99 | Save $3.00) - Aisle 16 R
+- **Seattle’s Best Coffee Decaf Portside Medium Roast Ground Coffee** (Seattle's Best - 12 oz): 🔥 **SALE: $9.19** (Reg: $9.99 | Save $0.80) - Aisle 16 R
+- **R.W. Knudsen Organic Just Prune 100% Juice Bottle** (R.W. Knudsen - 32 fl oz): 🔥 **SALE: $6.99** (Reg: $8.99 | Save $2.00) - Aisle 21 R
 - **Kroger® Natural Fresh Coppa Pork Shoulder Steak (Two Pack)** ( - 1 lb): 🔥 **SALE: $4.29** (Reg: $5.99 | Save $1.70) - Aisle 101 R
-- **Choice Boneless Beef Strip Steak** ( - 1 lb): 🔥 **SALE: $17.99** (Reg: $18.99 | Save $1.00) - Aisle 101 R
+- **Choice Boneless Beef Strip Steak** ( - 1 lb): 🔥 **SALE: $13.99** (Reg: $18.99 | Save $5.00) - Aisle 101 R
 - **Russet Potatoes Bag** ( - 5 lb): 🔥 **SALE: $3.59** (Reg: $3.99 | Save $0.40) - Aisle 0
 
 ## 📋 Regular Price Reference for November Items
 - **Kroger® Sliced Turkey Pepperoni** (Kroger - 5 oz): Reg: $3.29 - Aisle 101 L
 - **Applegate Natural Uncured Turkey Pepperoni No Nitrates 4oz** (Applegate - 4 oz): Reg: $5.79 - Aisle 101 L
 - **Kroger® Grab and Go Yellow American Cheese Deli Sliced** (Deli - 1 lb): Reg: $6.99 - Aisle 103 R
+- **Kroger® Grab and Go White American Cheese Deli Sliced** (Kroger - 1 lb): Reg: $6.99 - Aisle 103 R
 - **Kroger® Sliced Yellow American Cheese** (Kroger - 12 oz): Reg: $5.00 - Aisle 103 R
-- **Kroger® Sliced White American Cheese** (Kroger - 12 oz): Reg: $5.00 - Aisle 103 R
 - **Kroger® Cultured 1% Lowfat Buttermilk Pint** (Kroger - 1 pt): Reg: $1.19 - Aisle 100 R
-- **Kroger® Cultured Whole Milk Buttermilk Half Gallon** (Kroger - 1/2 gal): Reg: $4.39 - Aisle 100 R
 - **Kroger® Cultured 1% Lowfat Buttermilk Quart** (Kroger - 1 qt): Reg: $2.19 - Aisle 100 R
+- **Kroger® Cultured Whole Milk Buttermilk Half Gallon** (Kroger - 1/2 gal): Reg: $4.39 - Aisle 100 R
 - **Kroger® Sharp Cheddar Shredded Cheese** (Kroger - 8 oz): Reg: $2.00 - Aisle 33 L
 - **Kroger® Mild Cheddar Shredded Cheese** (Kroger - 8 oz): Reg: $2.00 - Aisle 33 L
 - **Kroger® Medium Cheddar Shredded Cheese** (Kroger - 8 oz): Reg: $2.00 - Aisle 33 L
@@ -33,9 +37,9 @@
 - **Daisy Pure and Natural 2% Low Fat Cottage Cheese** (Daisy - 24 oz): Reg: $5.79 - Aisle 100 R
 - **Kroger® Mozzarella Shredded Cheese** (Kroger - 8 oz): Reg: $2.00 - Aisle 33 L
 - **Kroger® Whole Milk Mozzarella Shredded Cheese** (Kroger - 8 oz): Reg: $2.00 - Aisle 33 L
-- **Kroger® Pepper Jack Sliced Cheese** (Kroger - 8 slices / 6 oz): Reg: $2.00 - Aisle 33 L
 - **Kroger® Pepper Jack Block Cheese** (Kroger - 8 oz): Reg: $2.00 - Aisle 33 L
-- **Boar’s Head Jalapeño Pepper Jack Cheese** (Boar's Head - 8 oz): Reg: $6.99 - Aisle 444 L
+- **Kroger® Pepper Jack Sliced Cheese** (Kroger - 8 slices / 6 oz): Reg: $2.00 - Aisle 33 L
+- **Sargento® Pepper Jack Sliced Cheese** (Sargento - 10 slices / 7.5 oz): Reg: $3.50 - Aisle 33 L
 - **Kroger® Sweetened Condensed Milk** (Kroger - 14 oz): Reg: $2.59 - Aisle 9 L
 - **Huy Fong Sriracha Hot Chili Sauce** (Huy Fong - 28 oz): Reg: $5.99 - Aisle 13 L
 - **Huy Fong Sriracha Hot Chili Sauce** (Huy Fong - 17 oz): Reg: $4.99 - Aisle 13 L
@@ -45,29 +49,25 @@
 - **Blue Diamond® Nut-Thins® Artisan Flax Seeds Almond Rice Crackers** (Blue Diamond - 3.75 oz.): Reg: $3.99 - N/A
 - **Ground Nutmeg - Kroger - 1.85 Oz** (Kroger - 1.85 oz): Reg: $4.19 - Aisle 15 L
 - **Spice Islands® Ground Nutmeg** (Spice Islands - 2.1 oz): Reg: $9.99 - Aisle 15 L
-- **Private Selection® Ground Nutmeg Shaker** (Private Selection - 1.72 oz): Reg: $5.99 - Aisle 15 L
-- **Kroger® Bleached Self Rising Enriched Flour** (Kroger - 5 lb): Reg: $3.49 - Aisle 15 L
-- **White Lily Self Rising Flour, 5 lb Bag** (White Lily - 5 lb): Reg: $5.49 - Aisle 15 L
-- **White Lily Self Rising Flour, 2 lb Bag** (White Lily - 2 lb): Reg: $2.99 - Aisle 15 L
+- **Smart Way™ Ground Cinnamon** (Smart Way - 1.94 oz): Reg: $1.25 - Aisle 15 L
+- **Smart Way™ Granulated Sugar** (Smart Way - 4 lb): Reg: $2.79 - Aisle 15 L
 - **Ball Park White Hot Dog Buns** (Ball Park - 8 ct / 14 oz): Reg: $4.19 - Aisle 10 L
 - **Kroger® White Hot Dog Buns** (Kroger - 8 ct / 11 oz): Reg: $1.99 - Aisle 10 L
-- **Kroger® Rich N Honey Hot Dog Buns** (Kroger - 8 ct / 16 oz): Reg: $1.99 - Aisle 10 L
 - **Nature's Own Life Keto Soft White Burger Buns, Keto Hamburger Buns, Keto Bread Buns** (Nature's Own - 8 ct): Reg: $7.99 - Aisle 10 L
 - **Nature's Own Life Keto Soft White Hotdog Buns, Non-GMO Keto Hotdog Buns, Keto Bread Buns, 8 Count** (Nature's Own - 8 ct): Reg: $7.99 - Aisle 10 L
 - **Mission Super Soft Flour Tortillas, Soft Taco Size, 10 Count** (Mission - 17.5 oz): Reg: $2.99 - Aisle 12 L
 - **Kroger® Soft Taco Size Flour Tortillas** (Kroger - 10 ct / 17.5 oz): Reg: $1.99 - Aisle 12 L
-- **Mission Carb Balance Flour Tortillas, Soft Taco Size, 8 Count** (Mission - 12 oz): Reg: $5.49 - Aisle 12 L
+- **Mission Super Soft Flour Tortillas, Fajita Size, 20 Count** (Mission - 23 oz): Reg: $3.99 - Aisle 12 L
 - **Juicy Juice Apple Juice 100% Juice** (Juicy Juice - 6.75 oz): Reg: $4.99 - Aisle 21 R
 - **Martinelli's Gold Medal Apple Juice** (Martinelli's - 10 fl oz): Reg: $1.50 - Aisle 21 R
 - **Kroger® Decaf Classic Medium Roast Ground Coffee** (Kroger - 11 oz): Reg: $6.00 - Aisle 16 R
-- **Dunkin’ Decaf Medium Roast Ground Coffee** (Dunkin' Donuts - 12 ounces): Reg: $11.99 - Aisle 16 R
+- **Kroger® Decaf Classic Medium Roast Ground Coffee** (Kroger - 29 oz): Reg: $14.49 - Aisle 16 L
 - **Sunsweet® Amaz!n® Prune Juice** (Sunsweet - 64 fl oz): Reg: $7.49 - Aisle 21 R
 - **Kroger® 100% Prune Juice** (Kroger - 64 fl oz): Reg: $7.49 - Aisle 21 R
-- **R.W. Knudsen Organic Just Prune 100% Juice Bottle** (R.W. Knudsen - 32 fl oz): Reg: $8.99 - Aisle 21 R
 - **Kroger® Thin Sliced Strip Steaks** (Kroger Mercado - 1 lb): Reg: $19.99 - Aisle 101 R
 - **Kroger® Salted Butter Sticks** (Kroger - 4 sticks / 16 oz): Reg: $3.49 - Aisle 100 R
-- **Kroger® Unsalted Butter Sticks** (Kroger - 4 sticks / 16 oz): Reg: $3.49 - Aisle 100 R
 - **Kroger® Salted Butter Sticks BIG DEAL!** (Kroger - 4 sticks / 16 oz / 2 pk): Reg: $6.49 - Aisle 100 R
+- **Kroger® Unsalted Butter Sticks** (Kroger - 4 sticks / 16 oz): Reg: $3.49 - Aisle 100 R
 - **Russet Potato** (Fresh Potatoes - 1 lb): Reg: $0.99 - Aisle 356 L
 - **Kroger® Jumbo Russet Potatoes** ( - 8 lb): Reg: $7.99 - Aisle 0
 - **Sweet Potato** (Fresh Potatoes - 1 lb): Reg: $1.49 - Aisle 356 L
